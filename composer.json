@@ -2,7 +2,7 @@
   "name": "distilleries/wordpress",
   "description": "Wordpress default structure",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     {
       "name": "Maxime Francois",
@@ -41,7 +41,7 @@
   "extra": {
     "installer-paths": {
       "app/plugins/{$name}/": ["type:wordpress-plugin"],
-      "app/mu-plugins/{$name}/": ["type:wordpress-myplugin"]
+      "app/my-plugins/{$name}/": ["type:wordpress-myplugin"]
     },
     "webroot-dir": "wp",
     "webroot-package": "wordpress",
