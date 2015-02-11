@@ -1,4 +1,14 @@
 {
+  "name": "distilleries/wordpress",
+  "description": "Wordpress default structure",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Maxime Francois",
+      "email": "kezho@me.com"
+    }
+  ],
   "repositories": [
     {
       "type": "composer",
