@@ -1,0 +1,5 @@
+vendor
+*.lock
+wp
+.env
+.idea
